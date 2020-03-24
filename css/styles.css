@@ -1,0 +1,56 @@
+
+/*font family for this theme are; 
+font-family: 'Montserrat', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+*/
+
+/*Styling for HTML TAGS---------------*/
+body {
+    font-family: "Montserrat";
+}
+
+h1 {
+    font-family: "Montserrat";
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: #fff;
+}
+
+/* Styling for Classes----------------*/
+
+.container-fluid {
+    padding: 3% 15%;
+}
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+    
+    
+}
+
+.iPhone6 {
+    -webkit-transform:rotate(30deg);
+    -moz-transform: rotate(30deg);
+    -ms-transform: rotate(30deg);
+    -o-transform: rotate(30deg);
+    transform: rotate(30deg);
+
+}
+
+
+/* Styling for ID's----------------*/
+
+#title {
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+
+
+
+
+
+
+
