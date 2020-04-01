@@ -12,10 +12,21 @@ body {
 h1 {
     font-family: "Montserrat";
     font-weight: 900;
-    font-size: 3rem;
+    font-size: 3.5rem;
     line-height: 1.5;
     color: #fff;
 }
+h3 {
+    font-family: "Montserrat";
+    font-weight: 900;
+    font-size: 1.5rem;
+    text-align: center;
+}
+p {
+    color: #8f8f8f;
+    text-align: center;
+}
+
 
 /* Navigation Bar ----------------*/
 
@@ -46,14 +57,11 @@ h1 {
     margin: 5% 3% 5% 0;
 }
 
-
+/* Title Image ------------*/
 
 .iPhone6 {
-    -webkit-transform:rotate(30deg);
-    -moz-transform: rotate(30deg);
-    -ms-transform: rotate(30deg);
-    -o-transform: rotate(30deg);
-    transform: rotate(30deg);
+    width: 60%;
+    transform: rotate(25deg);
 
 }
 
@@ -66,7 +74,17 @@ h1 {
     font-style: none;
 }
 
+/* Features section awesome ------------------*/
 
+.fas {
+    color: #ef8172;
+    font-size: 3.5rem;
+    align-self: center;
+}
+
+.row {
+    padding: 0 50px;
+}
 
 
 
