@@ -98,6 +98,7 @@ p {
 
 .fas:hover {
     color: #ff4c68
+    
 }
 
 .feature-box {
@@ -129,6 +130,7 @@ p {
 .press-logo {
     width: 15%;
     margin: 20px 20px 50px;
+    padding-left: 20px;
 }
 
 
